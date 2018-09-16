@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.mymusic.Payment"
+    android:padding="15dp"
+    android:background="#689F38">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Payment Method Will Be Added Soon!"
+        android:textColor="#FFF"
+        android:textSize="27sp"/>
+</android.support.constraint.ConstraintLayout>
